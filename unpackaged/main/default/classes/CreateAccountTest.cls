@@ -31,5 +31,10 @@ public class CreateAccountTest {
         Test.stopTest();
     }
 
+    public static testMethod void unitTestmethod4() {
+        Test.startTest();
+        CreateCon.CreateNewAcc();
+        Test.stopTest();
+    }
 
 }
