@@ -25,6 +25,11 @@ public class CreateAccountTest {
         CreateContact.CreateNewCon();
         Test.stopTest();
     }
+     public static testMethod void unitTestmethod3() {
+        Test.startTest();
+        CreateCon.CreateNewCon();
+        Test.stopTest();
+    }
 
 
 }
